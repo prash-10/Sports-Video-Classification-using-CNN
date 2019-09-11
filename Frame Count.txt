@@ -1,0 +1,13 @@
+BMX-
+Training	4850 0.7
+Testing		4939 0.7
+
+
+Rowing-
+Training	4950 0.6
+Testing		4944 0.5
+
+
+Skiing-
+Training	4790 0.6
+Testing		4988 0.7
